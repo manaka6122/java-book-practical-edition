@@ -1,5 +1,4 @@
 package Chapter7.Practice7_2;
-import java.io.*;
 import java.util.*;
 
 public class Main {
