@@ -1,6 +1,5 @@
 package Chapter7.Practice7_2;
-import java.io.*;
-import java.util.*;
+import java.util.ResourceBundle;
 
 public class Main {
   public static void main(String[] args) throws Exception {
